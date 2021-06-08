@@ -1,4 +1,4 @@
-# Homework
+# Code Refactor-Homework
 Homework assignment #1 - Code Refactor!
 This website was updated to highlight that the page needed better functionality & working semantic HTML elements, as well as ALT tags for images.
 We used tags like aside, footer, header, section & main to replace all of the div tags on the page.
