@@ -19,6 +19,8 @@ We used tags like aside, footer, header, section & main to replace all of the di
 
 
 
+![Screenshot (32)](https://user-images.githubusercontent.com/83887301/121264646-7d1a1900-c885-11eb-8397-b704f3781718.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/83887301/121264653-7f7c7300-c885-11eb-8012-0651d01581ff.png)
 
 
 
@@ -28,5 +30,5 @@ We used tags like aside, footer, header, section & main to replace all of the di
 
 
 
-[Screenshot (30)](https://user-images.githubusercontent.com/83887301/121063091-e3bf0a00-c793-11eb-95b7-ed135ecf108d.png)
+
 
